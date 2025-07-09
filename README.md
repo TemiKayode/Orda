@@ -1,4 +1,4 @@
-#Orda#
+**Orda**
 
 Orda is an e-commerce food ordering platform built with React, TypeScript, and Tailwind CSS. It offers a responsive UI, seamless menu browsing, and checkout functionality, designed for an optimal user experience. Deployed at ordang.netlify.app.
 Features
@@ -15,7 +15,8 @@ Clone the repository:git clone https://github.com/TemiKayode/Orda.git
 cd Orda
 
 
-Install dependencies (use npm or Bun as per your setup):npm install
+Install dependencies (use npm or Bun as per your setup):
+npm install
 # or
 bun install
 
